@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41341d67-f9ad-45b3-ba36-75cb187c2c7e" name="Changes" comment="Changes in readme">
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/comportamentais/Hotel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/comportamentais/Quarto.java" afterDir="false" />
+    <list default="true" id="41341d67-f9ad-45b3-ba36-75cb187c2c7e" name="Changes" comment="Implementation the of hotel class">
+      <change afterPath="$PROJECT_DIR$/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/comportamentais/ControleFluxo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ControleFluxoTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/designpattern/comportamentais/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/designpattern/comportamentais/Quarto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designpattern/comportamentais/Quarto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -49,6 +52,39 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rodri\Documents\www\2023\faculdade\2023.3\LPV\Comportamentais\designPattern_Interator\src\main\java\designpattern\comportamentais" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ControleFluxoTest.deveContarTotalQuartosHotel">
+    <configuration name="ControleFluxoTest.deveContarQuartosOcupados" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="designPattern_Interator" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ControleFluxoTest" />
+      <option name="METHOD_NAME" value="deveContarQuartosOcupados" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ControleFluxoTest.deveContarTotalQuartosHotel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="designPattern_Interator" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ControleFluxoTest" />
+      <option name="METHOD_NAME" value="deveContarTotalQuartosHotel" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ControleFluxoTest.deveContarTotalQuartosHotel" />
+        <item itemvalue="JUnit.ControleFluxoTest.deveContarQuartosOcupados" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -65,7 +101,21 @@
       <option name="project" value="LOCAL" />
       <updated>1684797838482</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Implementation Hotel class">
+      <created>1684799695350</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1684799695350</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Implementation the of hotel class">
+      <created>1684799735502</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1684799735502</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -94,6 +144,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Chan" />
     <MESSAGE value="Changes in readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changes in readme" />
+    <MESSAGE value="Implementation Hotel class" />
+    <MESSAGE value="Implementation the of hotel class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implementation the of hotel class" />
   </component>
 </project>

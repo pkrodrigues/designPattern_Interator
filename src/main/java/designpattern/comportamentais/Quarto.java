@@ -4,6 +4,12 @@ public class Quarto {
     private int numberRoom;
     private boolean status;
 
+    public Quarto(int number, boolean status)
+    {
+        this.numberRoom = number;
+        this.status = status;
+    }
+
     public int getNumberRoom() {
         return numberRoom;
     }

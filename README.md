@@ -14,4 +14,4 @@ Iterator é um padrão de design comportamental que permite percorrer elementos 
 Para o exemplo busquei implementar um monitarador de quartos, podemos indeticar a quantidade de quartos vagos em hotel.
 
 ### 3.2.3 Diagrama de Classe do Exemplo
-![img.png](img.png)
+![img_1.png](img_1.png)
